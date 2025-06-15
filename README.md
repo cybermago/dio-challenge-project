@@ -43,7 +43,7 @@ O objetivo principal é criar um sistema bancário simples que permita as seguin
     ```
 2.  **Execute o script Python**:
     ```bash
-    python seu_script_principal.py
+    python bank.py
     ```
 
 ---
