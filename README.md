@@ -33,17 +33,4 @@ O objetivo principal é criar um sistema bancário simples que permita as seguin
 * Ao final da listagem, deve ser exibido o saldo atual da conta.
 * Os valores (depósitos, saques e saldo) devem ser exibidos utilizando o formato `R$ xxx.xx`.
     * **Exemplo:** `1500.45 = R$ 1500.45`
-
-## Como Executar o Projeto (Sugestão)
-
-1.  **Clone o repositório** (se aplicável):
-    ```bash
-    git clone <https://github.com/cybermago/dio-challenge-project>
-    cd <dio-challenge-project>
-    ```
-2.  **Execute o script Python**:
-    ```bash
-    python bank.py
-    ```
-
 ---
