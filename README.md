@@ -38,8 +38,8 @@ O objetivo principal é criar um sistema bancário simples que permita as seguin
 
 1.  **Clone o repositório** (se aplicável):
     ```bash
-    git clone <URL_DO_REPOSITORIO>
-    cd <NOME_DO_PROJETO>
+    git clone <https://github.com/cybermago/dio-challenge-project>
+    cd <dio-challenge-project>
     ```
 2.  **Execute o script Python**:
     ```bash
